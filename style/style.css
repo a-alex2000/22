@@ -1,0 +1,60 @@
+body{
+    background-color:#e3e3b6;
+}
+h1{
+    font-style:italic;
+    color:#0c9ba6;
+    text-align: center;
+}
+h2{
+    font-style:italic;
+    color:#0c9ba6;
+    text-align: center;
+}
+input{
+	background: white;
+}
+input:hover{
+    background: #b0c4de;	
+}
+button{
+    background: #0c9ba6;
+    font-style: italic;
+    font-weight:bold;
+}
+button:hover{
+    background: #b0c4de;
+    font-style: italic;
+    font-weight:bold;
+}
+a{
+    background: #b0c4de;
+    font-style: italic;
+    font-weight: bold;
+    color:black;	
+}    
+a:hover{
+    background: white;
+    font-style: italic;
+    font-weight: bold;
+    color:black;	
+}
+thead{
+    bgcolor: #0c9ba6;
+}
+table{
+	margin: auto;
+	border: 1px solid grey;
+}
+table:hover{
+    background: white;
+}
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
